@@ -13,3 +13,4 @@ How to use? Set up a session for your Tiktok account Choose one of the modes
 ### 2. run it!
 ```python tiktok-comment.py```
 
+[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/bbzzs)
