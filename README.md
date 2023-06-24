@@ -7,13 +7,9 @@ How to use? Set up a session for your Tiktok account Choose one of the modes
 
 
 ### 1.install lib
-```pip install requests
-```
-```pip install colorama
-```
-```pip install random
-```
+```pip install requests```
+```pip install colorama```
+```pip install random```
 ### 2. run it!
-```python tiktok-comment.py
-```
+```python tiktok-comment.py```
 
